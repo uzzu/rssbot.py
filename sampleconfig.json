@@ -1,0 +1,12 @@
+{
+  "api_token": "hogehoge",
+  "interval": 3600,
+  "notify_options": [
+    {
+      "rss_url": "https://localhost:4567/rss",
+      "last_rss_status_path": "localrss.txt",
+      "rooms": ["1234567"],
+      "title": "最新情報だよ"
+    }
+  ]
+}
